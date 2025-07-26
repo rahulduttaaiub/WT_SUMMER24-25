@@ -1,0 +1,14 @@
+body{
+    font-family: serif;
+    width: auto;
+    background-color: #fff;
+}
+form{
+    text-align: center;
+    width: auto;
+    border: 8px solid black;
+}
+button{
+    background-color: blue;
+    color: #fff;
+}
